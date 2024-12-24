@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "public/assets/image1.jpeg",
+        "description": "Description for product mandarin",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 4,
+        "title": "Product 4",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 5,
+        "title": "Product 5",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 6,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 7,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 8,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 9,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 10,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 11,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 12,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 13,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 14,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 1,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      },
+    {
+        "id": 1,
+        "title": "Product 1",
+        "price": 29.99,
+        "image": "path/to/image1.jpg",
+        "description": "Description for product 1",
+        "category": "category1",
+        "rating": { "rate": 4.5 }
+      }
+    
+  ]
+  
